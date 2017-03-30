@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/intermediates/res/merged/debug/layout/contact_detail_fragment.xml",
+        "source": "/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/src/main/res/layout/contact_detail_fragment.xml"
+    },
+    {
+        "merged": "/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/intermediates/res/merged/debug/layout/contact_list_item.xml",
+        "source": "/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/src/main/res/layout/contact_list_item.xml"
+    },
+    {
+        "merged": "/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/intermediates/res/merged/debug/layout/contact_list_fragment.xml",
+        "source": "/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/src/main/res/layout/contact_list_fragment.xml"
+    },
+    {
+        "merged": "/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/intermediates/res/merged/debug/layout/contact_detail_item.xml",
+        "source": "/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/src/main/res/layout/contact_detail_item.xml"
+    },
+    {
+        "merged": "/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/intermediates/res/merged/debug/layout/activity_main_twopanes.xml",
+        "source": "/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/src/main/res/layout/activity_main_twopanes.xml"
+    }
+]

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="9941078306944"
+    token="7961988563124064106"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="9014776065623"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="9941078306944"
+        verifier="COLD_SWAP_REQUESTED" />
+
+</instant-run>

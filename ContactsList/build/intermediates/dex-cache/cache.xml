@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_e87e0e4b1aac37d674ab0ee56885a38cdf8c15f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_c4ec1836e7f526f7f63c40e305e9872ac284ceab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/8fdi11/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_1f88d52d17ad0a558142d624728dd59834d9da3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6d695e1b248a8941d6e06a4e02741153b1e97f89">
+        <dex dex="/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0ed36b450f0b0151356c8a5e5f11e20a9959820c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ee2cd266f86986301dd1f5afbeb55060e08e2a10">
+        <dex dex="/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9bef2e36cd2db1909a0d8c6fc68d7e6308293d9a/classes.dex" />
+    </item>
+
+</items>

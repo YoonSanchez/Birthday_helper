@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Birthday</string>
+    <string name="app_name">Birthday_helper</string>
+    <string name="action_settings">Settings</string>
 </resources>

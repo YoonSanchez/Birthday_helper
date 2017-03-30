@@ -1,0 +1,7 @@
+#Thu Mar 30 21:08:53 CEST 2017
+base.0=/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0ed36b450f0b0151356c8a5e5f11e20a9959820c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9bef2e36cd2db1909a0d8c6fc68d7e6308293d9a/classes.dex
+base.1=/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9bef2e36cd2db1909a0d8c6fc68d7e6308293d9a
+file.0=/Users/8fdi11/Desktop/Birthday_helper/ContactsList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0ed36b450f0b0151356c8a5e5f11e20a9959820c/classes.dex
